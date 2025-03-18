@@ -1,4 +1,4 @@
-from ollama import chat
+from ollama import chat 
 
 conversation = [
     {"role": "user", "content": "Hello, how are you?"}
